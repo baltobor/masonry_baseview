@@ -131,3 +131,9 @@ Other just targets:
 |just clean|Clean build artifacts|
 |just fmt|Format code|
 |just lint|Run clippy lints|
+
+## Screenshots
+
+### MacOS
+
+<img width="512" height="444" alt="masonry_baseview_macOS" src="https://github.com/user-attachments/assets/166ac60f-6500-4f70-a5a4-287b49768a6c" />
