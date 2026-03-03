@@ -1,6 +1,9 @@
 # masonry_baseview
 
-An experimental baseview backend for the [Masonry](https://github.com/linebender/xilem) framework which is the foundation of xilem
+An experimental baseview backend for the [Masonry](https://github.com/linebender/xilem) framework which is the foundation of xilem.
+
+**This project was a proof of concept to develop a Xilem baseview and may not be further developed. If you have landed on this project, you may be looking for the [xilem_baseview](https://github.com/baltobor/xilem_baseview) (which contains this code).**
+
 
 This project is an experimental attempt to bridge between /Xilem and [Baseview](https://github.com/RustAudio/baseview) for creating plugin UIs.
 
